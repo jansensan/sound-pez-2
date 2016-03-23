@@ -2,7 +2,7 @@
 
 Arduino gesture detector and Processing sound trigger.
 
-![image](https://raw.githubusercontent.com/jansensan/sound-pez-2/master/resources/images/xz-gesture-sensor-example.jpg)
+![image](https://raw.githubusercontent.com/jansensan/sound-pez-2/master/assets/photos/xz-gesture-sensor-example.jpg)
 
 While I was still studying at Concordia some years ago, I used IR sensors and a microcontroller to build a [prototype of this project](http://jansensan.net/portfolio/sound-pez).
 
