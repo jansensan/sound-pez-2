@@ -15,4 +15,5 @@ This time, I intend to use Arduino and Processing to rebuild the Sound Pez, and 
 	* [Sound](https://processing.org/tutorials/sound/)
 	* [Sound Library](https://processing.org/reference/libraries/sound/)
 	* [`SoundFile`](https://processing.org/reference/libraries/sound/SoundFile.html)
+* [Connecting Arduino to Processing](https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing)
 * [ZX Distance and Gesture Sensor Hookup Guide](https://learn.sparkfun.com/tutorials/zx-distance-and-gesture-sensor-hookup-guide)
